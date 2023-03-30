@@ -2,7 +2,7 @@
 export const TestApp = () => {
   return (
     <>
-    <div>TestApp</div>
+    <span>TestApp</span>
     </>
   )
 }
